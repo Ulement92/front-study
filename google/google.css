@@ -1,0 +1,190 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.gstore {
+  width: 160px;
+  display: flex;
+  justify-content: space-between;
+  color: 202124;
+}
+
+#information:hover {
+  text-decoration: underline;
+}
+
+#store:hover {
+  text-decoration: underline;
+}
+
+.gimg {
+  width: 190px;
+  display: flex;
+  justify-content: space-between;
+  color: #000;
+  line-height: 20px;
+}
+
+#gmail:hover {
+  text-decoration: underline;
+}
+
+#img:hover {
+  text-decoration: underline;
+}
+
+#jum_nine {
+  cursor: pointer;
+}
+
+#psa {
+  cursor: pointer;
+}
+
+footer {
+  background: #f2f2f2;
+}
+
+p {
+  border-bottom: 1px solid #dadce0;
+  padding: 15px 30px 14px;
+  color: #70757a;
+}
+
+.gbs > a {
+  color: #70757a;
+  justify-content: space-between;
+  width: 200px;
+  padding-right: 20px;
+  
+}
+
+.gys > a {
+  color: #70757a;
+  justify-content: space-between;
+  padding-left: 20px;
+}
+
+.all {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 30px;
+  padding-bottom: 14px;
+}
+
+.google_search {
+  height: 580px;
+}
+
+.content {
+  position: absolute;
+  left: 50%;
+  top: 37%;
+  transform: translate(-50%, -50%);
+}
+
+form {
+  margin-top: 20px;
+}
+
+#search {
+  width: 600px;
+  height: 45px;
+  border-radius: 24px;
+  border: 1px solid #dfe1e5;
+  outline: none;
+  padding-left: 40px;
+}
+
+#search:hover {
+  box-shadow: 0 1px 5px rgb(32 33 36 / 28%);
+  border-radius: 50px;
+}
+
+.button {
+  margin-top: 20px;
+}
+
+#Google_search:hover {
+  box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+  border: 1px solid #dadce0;
+  cursor: pointer;
+}
+
+#lucky:hover {
+  box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+  border: 1px solid #dadce0;
+  cursor: pointer;
+}
+
+#Google_search {
+  background-color: #f8f9fa;
+  border: none;
+  color: #202124;
+  padding: 9px 16px;
+  outline: none;
+  border-radius: 4px;
+  height: 36px;
+  font-size: 14px;
+  margin: 11px 4px;
+  box-shadow: 0 1px 1px rgba(255, 255, 255, 0.1);
+  border: 1px solid #ffffff;
+}
+
+#lucky {
+  background-color: #f8f9fa;
+  border: none;
+  color: #202124;
+  padding: 9px 16px;
+  outline: none;
+  border-radius: 4px;
+  height: 36px;
+  font-size: 14px;
+  margin: 11px 4px;
+  box-shadow: 0 1px 1px rgba(255, 255, 255, 0.1);
+  border: 1px solid #ffffff;
+}
+
+input {
+  background-image: url("./dodlook.png");
+  background-repeat: no-repeat;
+  background-size: 22px;
+  background-position: 12px 11px;
+}
+
+#ganggo:hover {
+  text-decoration: underline;
+}
+
+#biznis:hover {
+  text-decoration: underline;
+}
+
+#search_wonli:hover {
+  text-decoration: underline;
+}
+
+#alone:hover {
+  text-decoration: underline;
+}
+
+#little:hover {
+  text-decoration: underline;
+}
+
+#sulzung:hover {
+  text-decoration: underline;
+}
